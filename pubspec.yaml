@@ -16,7 +16,7 @@ dependencies:
   freezed_annotation:
   hive:
   hive_flutter:
-
+  dio:
 
   cupertino_icons: ^1.0.2
 
