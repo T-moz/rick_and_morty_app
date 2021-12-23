@@ -14,7 +14,8 @@ dependencies:
   flutter:
     sdk: flutter
   freezed_annotation:
-
+  hive:
+  hive_flutter:
 
 
   cupertino_icons: ^1.0.2
@@ -24,7 +25,7 @@ dev_dependencies:
     sdk: flutter
   build_runner:
   freezed:
-
+  hive_generator:
   flutter_lints: ^1.0.0
 
 
