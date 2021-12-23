@@ -27,6 +27,7 @@ dev_dependencies:
   freezed:
   hive_generator:
   flutter_lints: ^1.0.0
+  json_serializable:
 
 
 flutter:
